@@ -1,0 +1,4 @@
+page/TechFiosTestPage.class
+page/BasePage.class
+util/ConfigFileReader.class
+util/BrowserFactory.class
